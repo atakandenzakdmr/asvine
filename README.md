@@ -11,7 +11,8 @@ Digital Gardırop Asistanı
 | Forget Me Not | ![#FFF2EE](https://via.placeholder.com/60/FFF2EE?text=+) #FFF2EE |
 | Light Salmon | ![#FFAC8C](https://via.placeholder.com/60/FFAC8C?text=+) #FFAC8C | 
 | Cognac | ![#A73C1E](https://via.placeholder.com/60/A73C1E?text=+) #A73C1E | 
-| Dark Tan | ![#67160A](https://via.placeholder.com/60/67160A?text=+) #67160A | 
+| Dark Tan | ![67160A](https://user-images.githubusercontent.com/56636365/193253627-e529984b-9a29-42fe-8b64-8b61bff5df7d.png)
+ #67160A | 
 
 ### Ekran Önizlemesi
 
