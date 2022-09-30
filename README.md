@@ -6,13 +6,12 @@ Digital Gardırop Asistanı
 
 | Renk             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| International Orange | ![#FF4C08](https://via.placeholder.com/60/FF4C08?text=+) #FF4C08 |
-| Light Apricot | ![#FFD2BE](https://via.placeholder.com/60/FFD2BE?text=+) #FFD2BE |
-| Forget Me Not | ![#FFF2EE](https://via.placeholder.com/60/FFF2EE?text=+) #FFF2EE |
-| Light Salmon | ![#FFAC8C](https://via.placeholder.com/60/FFAC8C?text=+) #FFAC8C | 
-| Cognac | ![#A73C1E](https://via.placeholder.com/60/A73C1E?text=+) #A73C1E | 
-| Dark Tan | ![67160A](https://user-images.githubusercontent.com/56636365/193253627-e529984b-9a29-42fe-8b64-8b61bff5df7d.png)
- #67160A | 
+| International Orange | ![FF4C08](https://user-images.githubusercontent.com/56636365/193254416-c71e574b-4354-49e1-9e2a-f0ede604774e.png) #FF4C08 |
+| Light Apricot | ![FFD2BE](https://user-images.githubusercontent.com/56636365/193254377-f2580be8-36c8-432c-ac89-8f76538439ed.png) #FFD2BE |
+| Forget Me Not | ![FFF2EE](https://user-images.githubusercontent.com/56636365/193254315-cdd1293a-feda-4271-a232-65b577103109.png) #FFF2EE |
+| Light Salmon | ![FFAC8C](https://user-images.githubusercontent.com/56636365/193254224-413e2a12-30a3-4021-96b1-d71ba7623baf.png) #FFAC8C | 
+| Cognac | ![A73C1E](https://user-images.githubusercontent.com/56636365/193253989-d65eb98a-93ae-4009-9429-e71b27f1016d.png) #A73C1E | 
+| Dark Tan | ![67160A](https://user-images.githubusercontent.com/56636365/193253627-e529984b-9a29-42fe-8b64-8b61bff5df7d.png) #67160A | 
 
 ### Ekran Önizlemesi
 
