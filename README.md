@@ -1,7 +1,7 @@
 # asvine
 Digital Wardrobe App
  
-## Color Palate
+## Color Palette
 #FF4C08,
 #FFD2BE,
 #FFAC8C,
