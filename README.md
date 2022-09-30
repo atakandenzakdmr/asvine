@@ -6,7 +6,7 @@ Digital Gardırop Asistanı
 
 | Renk             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| International Orange | ![FF4C08](https://user-images.githubusercontent.com/56636365/193254416-c71e574b-4354-49e1-9e2a-f0ede604774e.png) </br> #FF4C08 |
+| International Orange |![FF4C08](https://user-images.githubusercontent.com/56636365/193254416-c71e574b-4354-49e1-9e2a-f0ede604774e.png)</br>#FF4C08|
 | Light Apricot | ![FFD2BE](https://user-images.githubusercontent.com/56636365/193254377-f2580be8-36c8-432c-ac89-8f76538439ed.png) #FFD2BE |
 | Forget Me Not | ![FFF2EE](https://user-images.githubusercontent.com/56636365/193254315-cdd1293a-feda-4271-a232-65b577103109.png) #FFF2EE |
 | Light Salmon | ![FFAC8C](https://user-images.githubusercontent.com/56636365/193254224-413e2a12-30a3-4021-96b1-d71ba7623baf.png) #FFAC8C | 
