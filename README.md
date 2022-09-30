@@ -6,7 +6,7 @@ Digital Gardırop Asistanı
 
 | Renk             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| International Orange | ![#FF4C08](https://via.placeholder.com/60/FF4C08?text=+) #FF4C08 |
+| International Orange | ![#FF4C08]<img src="https://via.placeholder.com/60/FF4C08?text=+" alt="#FF4C08"> | #FF4C08 |
 | Light Apricot | ![#FFD2BE](https://via.placeholder.com/60/FFD2BE?text=+) #FFD2BE |
 | Forget Me Not | ![#FFF2EE](https://via.placeholder.com/60/FFF2EE?text=+) #FFF2EE |
 | Light Salmon | ![#FFAC8C](https://via.placeholder.com/60/FFAC8C?text=+) #FFAC8C | 
