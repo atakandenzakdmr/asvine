@@ -18,8 +18,8 @@ class MyApp extends StatelessWidget {
       ),
       home: const MyHomePage(title: 'Asvine Digital Wardrobe'),
     );
-  }
-}
+  } 
+} 
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({Key? key, required this.title}) : super(key: key);
