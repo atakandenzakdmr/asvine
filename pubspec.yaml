@@ -17,9 +17,9 @@ dependencies:
   flutter_native_splash: ^2.2.10+1 #Splash screen paketi
   introduction_screen: ^3.0.1 #OnBoard screen paketi
   animated_text_kit: ^4.2.2 #text animasyon paketi
+  flutter_launcher_icons: ^0.10.0 #uygulama icon paketi
 
 dev_dependencies:
-  flutter_launcher_icons: ^0.10.0 #uygulama iconu paketi
   flutter_test:
     sdk: flutter
 
